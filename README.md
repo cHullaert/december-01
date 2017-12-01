@@ -9,6 +9,8 @@ http://adventofcode.com/2017
 
 # December 01
 
+For the moment, I don't know if I can copy/paste the exercise, I want to ask before.  Don't hesitate to go on the website, to visit them, to practice, to try and discover the exercise.
+
 First puzzle, done.
 * Language: Java
 * Unit test: JUnit
